@@ -1,5 +1,5 @@
 # JackSlim
-Phyton Script that convert a CSV datei to ARRF Format 
+Phyton Script that convert a .CSV (Comma separated value)datei to .arrf Format 
 
 Ubuntu users:
 First, make sure you have the required libraries installed:
